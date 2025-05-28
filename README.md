@@ -76,7 +76,7 @@ You can configure:
 To evaluate predictions and print per-class accuracy:
 
 ```
-python predict.py
+python test.py
 ```
 
 This will:
